@@ -121,5 +121,5 @@ public/                # Static assets
 
 **Ahmed Zaalani**
 
-- GitHub: [your-github-username](https://github.com/ahmed7zaalani)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/ahmed-zaalani/)
+- GitHub: (https://github.com/ahmed7zaalani)
+- LinkedIn: (https://www.linkedin.com/in/ahmed-zaalani/)
