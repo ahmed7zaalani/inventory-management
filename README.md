@@ -117,17 +117,9 @@ public/                # Static assets
 - Currency formatting is currently configured for USD.
 - Sorting controls are not included; the inventory view focuses on search, category filtering, and stock-status filtering.
 
-## Future improvements
-
-- Move the API endpoint into an environment variable.
-- Add pagination for larger inventories.
-- Add sorting options if required by the use case.
-- Add automated tests and production-grade API error handling.
-- Replace MockAPI with a persistent database and add authentication/authorization.
-
 ## Author
 
-**Your Name**
+**Ahmed Zaalani**
 
-- GitHub: [your-github-username](https://github.com/your-github-username)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- GitHub: [your-github-username](https://github.com/ahmed7zaalani)
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/ahmed-zaalani/)
