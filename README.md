@@ -32,7 +32,6 @@ Invento is a responsive inventory management dashboard built with **Next.js 16**
 The images in this folder are **illustrative portfolio previews** created from the project's layout and feature set. They are not direct captures of a running browser session. Replace them with genuine screenshots of your deployed or locally running app before presenting them as application screenshots.
 
 Inventory preview | Dashboard preview | Products preview 
-|---|---|
  ![Inventory preview](screenshots/inventory-preview.png) | ![Dashboard preview](screenshots/dashboard-preview.png) | ![Products preview](screenshots/products-preview.png) 
 
 ## Getting started
