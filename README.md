@@ -31,9 +31,8 @@ Invento is a responsive inventory management dashboard built with **Next.js 16**
 
 The images in this folder are **illustrative portfolio previews** created from the project's layout and feature set. They are not direct captures of a running browser session. Replace them with genuine screenshots of your deployed or locally running app before presenting them as application screenshots.
 
-| Dashboard preview | Inventory preview |
-|---|---|
-| ![Dashboard preview](screenshots/dashboard-preview.png) | ![Inventory preview](screenshots/inventory-preview.png) |
+Inventory preview | Dashboard preview | Products preview 
+ ![Inventory preview](screenshots/inventory-preview.png) | ![Dashboard preview](screenshots/dashboard-preview.png) | ![Products preview](screenshots/products-preview.png) 
 
 ## Getting started
 
@@ -118,17 +117,9 @@ public/                # Static assets
 - Currency formatting is currently configured for USD.
 - Sorting controls are not included; the inventory view focuses on search, category filtering, and stock-status filtering.
 
-## Future improvements
-
-- Move the API endpoint into an environment variable.
-- Add pagination for larger inventories.
-- Add sorting options if required by the use case.
-- Add automated tests and production-grade API error handling.
-- Replace MockAPI with a persistent database and add authentication/authorization.
-
 ## Author
 
-**Your Name**
+**Ahmed Zaalani**
 
-- GitHub: [your-github-username](https://github.com/your-github-username)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- GitHub: (https://github.com/ahmed7zaalani)
+- LinkedIn: (https://www.linkedin.com/in/ahmed-zaalani/)
