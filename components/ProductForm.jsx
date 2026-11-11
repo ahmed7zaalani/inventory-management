@@ -16,7 +16,7 @@ const initialState = {
     quantity: ""
 }
 
-const ProductForm = ({ action, product }) => {
+const ProductForm = ({ key, action, product }) => {
     const [formData, setFormData] = useState(product || initialState)
     const [isPending, setIsPending] = useState(false)
     const [message, setMessage] = useState({ text: "", error: false })
@@ -48,12 +48,12 @@ const ProductForm = ({ action, product }) => {
         }
     }
 
-    useEffect(() => {
-        return () => {
-            setFormData(product || initialState)
-            setMessage({ text: "", error: false })
-        }
-    }, [])
+    // useEffect(() => {
+    //     return () => {
+    //         setFormData(product || initialState)
+    //         setMessage({ text: "", error: false })
+    //     }
+    // }, [])
 
 
     return (

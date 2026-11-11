@@ -24,7 +24,12 @@ const EditProduct = async ({ params }) => {
                     </p>
                 </header>
 
-                <ProductForm action={updateProductById} product={product} />
+                <ProductForm
+                    key={JSON.stringify(product)}
+                    action={updateProductById}
+                    product={product}
+
+                />
             </div>
         </section>
     );
