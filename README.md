@@ -123,3 +123,4 @@ public/                # Static assets
 
 - GitHub: (https://github.com/ahmed7zaalani)
 - LinkedIn: (https://www.linkedin.com/in/ahmed-zaalani/)
+- Live Project: (https://inventory-management-two-phi.vercel.app/)
